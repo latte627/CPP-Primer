@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs file\\C\u002B\u002B\\C\u002B\u002B Primer Exercise 2.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF37440-24FC-4DD4-BCA9-5087A09CB228}|C\u002B\u002B Primer Exercise 2.3\\C\u002B\u002B Primer Exercise 2.3.vcxproj|D:\\vs file\\C\u002B\u002B\\C\u002B\u002B Primer Exercise 2.3\\C\u002B\u002B Primer Exercise 2.3\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBF37440-24FC-4DD4-BCA9-5087A09CB228}|C\u002B\u002B Primer Exercise 2.3\\C\u002B\u002B Primer Exercise 2.3.vcxproj|solutionrelative:C\u002B\u002B Primer Exercise 2.3\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\vs file\\C\u002B\u002B\\C\u002B\u002B Primer Exercise 2.3\\C\u002B\u002B Primer Exercise 2.3\\FileName.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B Primer Exercise 2.3\\FileName.cpp",
+              "ToolTip": "D:\\vs file\\C\u002B\u002B\\C\u002B\u002B Primer Exercise 2.3\\C\u002B\u002B Primer Exercise 2.3\\FileName.cpp",
+              "RelativeToolTip": "C\u002B\u002B Primer Exercise 2.3\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T01:52:59.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
